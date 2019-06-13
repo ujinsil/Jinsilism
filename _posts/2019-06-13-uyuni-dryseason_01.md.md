@@ -5,17 +5,17 @@ date: 2019-06-13 19:00:00 +09:00
 author: Jinsilism
 permalink: /uyuni-during-dry-season/
 image: 
-  featur:
+  feature:
 categories:
--남미여행
--우유사막
+  -남미여행
+  -우유사막
 
 tags:
--남미여행
--볼리비아
--우유니소금사막
--신혼여행
--Uyuni Salt Flat
+  -남미여행
+  -볼리비아
+  -우유니소금사막
+  -신혼여행
+  -Uyuni Salt Flat
 
 description: 지구 최대의 거울, 우유니사막. 하지만 아무것도 반사되지 않는 건기에 방문하는 것도 매력있다? 반영사진을 포기하고도 우기가 아닌 건기에 볼리비아 우유니 사막를 방문해야 하는 5가지 이유를 알아보자!
 
