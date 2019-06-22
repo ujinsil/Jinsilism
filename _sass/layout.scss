@@ -37,11 +37,11 @@ html, body {
 /* Toggle class to open menu */
 
 #nav.menu-open {
-  @include open(-5rem);
+  @include open(-14rem);
 }
 
 #nav-left.menu-open-left {
-  @include open(5rem);
+  @include open(14rem);
 }
 
 /* Separator after menu */
