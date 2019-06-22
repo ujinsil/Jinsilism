@@ -7,7 +7,7 @@ html, body {
 
 /* Navigation */
 
-#nav, #nav-left { 
+#nav, #nav-left {
   a {
     display: block;
     color: $background-color;
@@ -37,11 +37,11 @@ html, body {
 /* Toggle class to open menu */
 
 #nav.menu-open {
-  @include open(-14rem);
+  @include open(-5rem);
 }
 
 #nav-left.menu-open-left {
-  @include open(14rem);
+  @include open(5rem);
 }
 
 /* Separator after menu */
@@ -260,17 +260,18 @@ footer {
 }
 
 #wrap {
-	min-height:100%; 
+	min-height:100%;
 	position:relative;
 	padding-bottom: 105px;
 }
 
 .footer {
-	padding: 25px 0;
+	padding: 10px 0;
 	background-color: $main-color;
 	color: $background-color;
 	text-align: center;
 	position: absolute;
   width: 100%;
   bottom: 0;
+	font-size: small;
 }
