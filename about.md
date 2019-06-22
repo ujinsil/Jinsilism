@@ -11,7 +11,7 @@ title: About Jinsilism
 꿈 : 퇴사 후 세계여행
 
 
-![Emerald](img/jinsil_intro.png)
+![aboutjinsil](img/intro.png)
 
 ### to be continued..
 
