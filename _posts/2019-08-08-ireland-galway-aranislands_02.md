@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 아일랜드 여행 - 아란섬 이니시모어 (Inishmore) 1편
+title: 아일랜드 여행 - 아란섬 이니시모어 (Inishmore) 2편
 date: 2019-08-08 18:00:00 +09:00
 author: Jinsilism
 permalink: /Ireland-AranIslands1/
@@ -62,7 +62,6 @@ description: 골웨이 서쪽에 있는 이니시모어 (Inishmore) 여행 꿀�
 <div style="text-align: center"> 이시니모어에서 렌트했던 자전거 </div>
 
 
-
 2. **마차**
 
 자전거를 타고 다니다 보면 종종 마차를 타고 이동하는 사람들을 볼 수 있었다.
@@ -72,7 +71,6 @@ description: 골웨이 서쪽에 있는 이니시모어 (Inishmore) 여행 꿀�
  ![아란섬 마차](https://lh3.googleusercontent.com/xonoO_W_T2Sal_L27Y2hkxrukWHCdsVjn-8xVydJ417WfPJ8zAKl7O8YPSnu8PTB9b7THET152j9FXuk7yofOa-0EiPZwKsw5KNvcaCFQI3wpc8nel6VFyi59Qw9oJaz8pbIeNBVft1gK5KuXa3wNjaMJCIasjdjml9-3RbgqlC1iF8zQb0_KjR00qBTT7XpmebpH2ggI2DadhAzC5ebqf9ReKv6eMOrHKd4DzEE5Wf6GsJw0UNYkBrJbjgKsp-CnClV0EaCx0xIr3iHLiYla-nglwn5wK0PdzoyVD3EBQ7g8YIohFarE9MxHmWuOhtc8KKiPc6JCDOXEVGannIMcuevvoBszEvkxArrglOZ4XMfHpHBcEPABEk4rasOFHD2jZPq_BMd0US35VeQ-GG35SRHN4T2-r_cEySaq_eYdiJWnBnPn636zDDkPafMJwzUIHZbvWoOCG0HQo_jNy0A9Ys_bFIF8ri5yMeRJBuiOT6KGgpVdbEUsPawZ3OueCG1W2VgIZsXRcmAjvo93siSceaUH-sVOvG1wwXXaKKAdMziB8X4_M3MkibRwM2RDqCCmRreDRM9Mri1jCkWG9CZmt1Kq1MI00k8yyQzhuPa1D-MppRzbieymwAzUJR-k0QShPJZ9NWhFyxDKIHGpHTRV-L_zyRtBxo=w690-h383-no)
 
 <div style="text-align: center"> 마차를 타고 반대편에서 오는 사람들과 인사하는 중</div>
-
 
 
 3. **투어버스**
