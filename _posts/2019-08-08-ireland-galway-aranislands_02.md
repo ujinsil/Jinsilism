@@ -3,7 +3,7 @@ layout: post
 title: 아일랜드 여행 - 아란섬 이니시모어 (Inishmore) 2편
 date: 2019-08-08 18:00:00 +09:00
 author: Jinsilism
-permalink: /Ireland-AranIslands1/
+permalink: /Ireland-AranIslands2/
 image:
   feature: inishmore2_thumbnail.JPG
 categories:
@@ -54,7 +54,6 @@ description: 골웨이 서쪽에 있는 이니시모어 (Inishmore) 여행 꿀�
    ![아란섬 자전거](https://lh3.googleusercontent.com/UvGsW6LQcCg7gr5TfwMPcHzoc2PZRZyfGg1iHS6Lbi_P9CJHpl8J1gT98wwLWBtqFBaR2uQsWkG-PZLs3C5q4xNPHWm4LAzScRsvX5PhTgrAGsgS1BEtEi-tqGqSLSHa9YzqBX9umesws9kBHOM-1_nafhY9AVO4cH09NKXqoJUFPGZqIO-Wa1YoziBP5Ee4_hv86Xs9APEzMmUxgLLUMO4FXuKbmc_aV5TS8JZwMYPTguI-ItciTgsksrpNELqyM2QG1YHLwECesyfVBluYRESrf-vJUauA6D9_D-WVotl562MnUqoEnrAj-Hhaxd87eMGg0sT3SX_RRzCPLjAE9Fi-I-JIHVoAlps7GrmPvr101ZRWBLCFk1xWg7FsKFyYTb4H9ldNTL6ocYbU77UTAxXRLjooBu0riufFwUS3K8r2-6La2XMiJHpkxvdy67hHj7bO44OV7Jt7-8VgeX0Wnw2uMXQyZo4tTTDGE0mBJfTe9ARTbNNDALLUdFqeTCOAJhHS1MyKrSvVtYJas8uBHnIlv-uO_elRc8X2On-4wrNwgPnq2bqEK2t1bEJ09AtmvvvotlAa_o1lj1m7yC17ACJ3SY_ajUI1nSgmVewf5a3wMZYgbFXqqc0P18smtSpk0mxn4GBIGBi0DR3aUvoLAWkWTBIH33k=w294-h293-no)
 
 <div style="text-align: center"> 이시니모어에서 렌트했던 자전거 </div>
-
 2. **마차**
 
 자전거를 타고 다니다 보면 종종 마차를 타고 이동하는 사람들을 볼 수 있었다.
@@ -64,7 +63,6 @@ description: 골웨이 서쪽에 있는 이니시모어 (Inishmore) 여행 꿀�
  ![아란섬 마차](https://lh3.googleusercontent.com/xonoO_W_T2Sal_L27Y2hkxrukWHCdsVjn-8xVydJ417WfPJ8zAKl7O8YPSnu8PTB9b7THET152j9FXuk7yofOa-0EiPZwKsw5KNvcaCFQI3wpc8nel6VFyi59Qw9oJaz8pbIeNBVft1gK5KuXa3wNjaMJCIasjdjml9-3RbgqlC1iF8zQb0_KjR00qBTT7XpmebpH2ggI2DadhAzC5ebqf9ReKv6eMOrHKd4DzEE5Wf6GsJw0UNYkBrJbjgKsp-CnClV0EaCx0xIr3iHLiYla-nglwn5wK0PdzoyVD3EBQ7g8YIohFarE9MxHmWuOhtc8KKiPc6JCDOXEVGannIMcuevvoBszEvkxArrglOZ4XMfHpHBcEPABEk4rasOFHD2jZPq_BMd0US35VeQ-GG35SRHN4T2-r_cEySaq_eYdiJWnBnPn636zDDkPafMJwzUIHZbvWoOCG0HQo_jNy0A9Ys_bFIF8ri5yMeRJBuiOT6KGgpVdbEUsPawZ3OueCG1W2VgIZsXRcmAjvo93siSceaUH-sVOvG1wwXXaKKAdMziB8X4_M3MkibRwM2RDqCCmRreDRM9Mri1jCkWG9CZmt1Kq1MI00k8yyQzhuPa1D-MppRzbieymwAzUJR-k0QShPJZ9NWhFyxDKIHGpHTRV-L_zyRtBxo=w690-h383-no)
 
 <div style="text-align: center"> 마차를 타고 반대편에서 오는 사람들과 인사하는 중</div>
-
 3. **투어버스**
 
 ![아란섬 투어버스](https://lh3.googleusercontent.com/Honw8x4iqdrOWe3uTqNqAYYRps6zQS5sQmqQr4-HE0u507i7ZS0nwUwjgY7FBQLv8qKyWMiH04xfNJJyvW1Kgxk5-YWgjffFAEdsoS7tEkdMvZYiKhFJg8SD5QZOp__OhmPEDlVEBP1PTNrhjhPMkGdrs6tX7B0lr0K1WlBTxRdFTyYe2SgVPedVFNKxYdfj6gxixNw5_7ll3kVCAS8qRq3U5w_7D8KLO6AMhMK-Wb8Ql42DZjvMlIdlLJngI19F43n4bCdEnLl0hzqFc12JFHnvK6lloQrvOGpcEQlPy9t3DAKFas4YmwoJBiINS27z1mhxLkiwGM-IY2lywODiFhMvpjTsZx7wnOh1ScM4UNVcDM9Y_UsfGoWYKeHvVM5ixphZ2xlDNu0rgyXkr10-V43etBLvph87sjVCMuDueqOUx5sq6NHZvLSQ4mCCJEwn-4ap80nPsSOrg1nKgJy6F9Il8xlWPckNGMfdZsetu5iCuHO_iD0f9HXg3XnsDw3oWa-MK5wnxql1PAiNMVHubpO1uwRITWABNZz899t03xzqwwVjWwcCecsq2NHFQ2v01PLVXwS46YyQxJ4O_dYmbEYGYUSnAmgabw6DC2OdNUTrpvSoFXflvGUunlcsB5jDRrW2NqyxwktO7btHHaZseC_nXwOfbyQ=w528-h238-no)
