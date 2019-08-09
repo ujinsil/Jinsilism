@@ -5,7 +5,7 @@ date: 2019-08-08 18:00:00 +09:00
 author: Jinsilism
 permalink: /Ireland-AranIslands1/
 image:
-  feature: inishmore1_thumbnail.JPG
+  feature: inishmore1_thumbnail.jpg
 categories:
   -유럽여행
   -아일랜드
@@ -48,7 +48,6 @@ description: 아일랜드에 기네스 말고 뭐가 또 있을까? 골웨이 �
 ![아란섬 지도](https://lh3.googleusercontent.com/DerWHyKLG3e3K-qr9E7M35KOeneHW9nRWNX3B0nWQPXPAk3oi4eSPtVAzAT_duByKtOq8e7dClUCNwfbvF1dmfIo0htIPn9vaucyLXSxtH1yiJC-XEwoQd9tBtOzU3rltNFsOwXvdBVW9D7KxGVRvrJKbsAs8UTuBzhDg0-4tn2ovKru7A-lzmUaBeosjMeTpBnldZS-FXdFHnGv-AexuQcgRr1fnaaSC6lndf51Sh2D42JaQmC0MW-77YBEsa36sp4c0-DFIF_I6nQuxewKfKHE08W_exLZXPf-t2NvyzK0lXdbK5a_kcmAVvUBvMg14yHWkae_UbGW9DJRgidQD7XxnqUwrbT15WUt9INwym7-Ck17-P36r_wI2O-IHnXsyAnoFQzEg2fYeAsWg7kCHxUJf69_A_FPRcNTq8P8RhjLGjR-dTW_-Fz5UNt1zCzNw7ZFdRLsLg6XHoReHJvOeoYdQTaIucSePEYyjjm3sZQW4Fd0SVZXNNBfGSEdouwBbMT65W9rp-ZitedtsdMT-L9g08n-Pfcp74KpjmjZQ_x0YOTdaQxT3cG_QqPjYxkyJsGnH6yhSp4B61VJIEXhfYN1HZSHmqz2p0AkOfWNZ3PL56SbCg4d9L5n7qSpgMkqLr1ltN1QoC5IMESDsYEHxcmX5ZpOVMA=w1100-h794-no)
 
 <div style="text-align: center"> 출처 : 구글지도 </div>
-
 따라서, 골웨이 근처 선착장에서 배를 타고 당일치기 여행을 하는 사람들이 꽤나 있는데 일단 배로 이동하는 방법 부터 소개하고자 한다. 
 
 - **배 타고 이동하는 방법** 
@@ -100,13 +99,11 @@ description: 아일랜드에 기네스 말고 뭐가 또 있을까? 골웨이 �
 ![아일랜드 운전](https://lh3.googleusercontent.com/wJdXyn5Z69OjydQh0N4c6tJURZReNlEmTsIqLzE06cSC-frVDkJVRUeLiV5RrKTqtygCpAJLTms7MZKIjfFOJBwzY-rVNrE6RvALC7pqsCB7imhxvDYE_nN78KxSkyaL337wEG_2LpUm5HaOV5EN2GZMLwfkXqVeXZgfRud-MyXzcNjXGaYpF8U-5B8Esq3VS7FuE8j76RlMpggzEaSwGeM79bRi4gXRBpqyaMhYZjSnL09Qu2kSgEiO3UyLHTPnBq6Deb1-NOVySkp1-HFXalyKxZ-ajqFRne6ca0mxHnwvYSXqP_Z6-zY1vcGfEAmB3VZxOHt_s_5_25o_Rap1Wfha_7WCevBEgkKFyFp82ahXvrZUnwsHggHZCf-PiRlxwpHNrVO1GQ3Fi-bM-w1-n70CZ_OWD9hZFUWBltx1C_UDmy3uHV6TwIX67yNRJLK-P-LI0OLsfJK7Z0GYK2IrJ2Doe2U3aWvwVaXZTlex_6feUN5hUjqzVp-GGNhbRheKkK_Gxw7wQ-CJRWzu9VZa3VoZ3ITf9UAra3C1WMcU2hINLjTpH5d_zvYl2cfduurKjhmP_VdQq8IbAGFg2QaLSmAaGILVbldlqFQZA0WyJmfkhAzvxN3OyY-SQFZTFAPwXcaHitmYvRsRcckXm73rEjdreIKRsV0=w1057-h839-no)
 
 <div style="text-align: center"> 아일랜드에서는 우리나라와 반대로  운전석이 오른쪽에, 자동차가 도로 왼쪽에 다닌다. </div>
-
 10시 쯤 근처에 Spiddal 이라는 마을에 도착해서 아침식사를 했다. 아일랜드 있는 내내 먹었던 아이리쉬 브렉퍼스트! 영국식 전통 아침식사와 다른 점은 화이트 푸딩이 있다는 점과 soda bread 가 있다는 점이다.
 
 ![아이리쉬 브렉퍼스트](https://lh3.googleusercontent.com/PveBqALhPh8s07tDTn9qQy05baUqQwyyXhULJwxt6KkqlBOpLcvferIpUjwU2KYNgP5OsEZ6EiARAW0w3mo_zSeQpamxyH22IyWB-qxqnjr3dmFUSe0_X8fQ9fFMC8zp265DfcWw-wNXh-wRNtsdrp7bPjJ3Fum0oXg22r0DTitRz3W-j2AI6AukX5F3UGxeEsVKjmHI6iIcQy_OIkAFJSiXMdcb6XIwZiQJLMCZc9xSpOi02aZgPwTIiy4YB_wac-Uf2aBvwsbqHv8MPMFGXuUY1NnUmPRrM5-RGR7KQQYGFPi0UVjt2se3bkpYprjJ-LCostLF24tiFWAqXTiUQPpQDGRWYbZZzlcWtf59-_WTdk_XMiu7q2ePZPD2dBxjmwx_5aEhcW9NROUFyMjESDTselN0PMNNTlbpWshckX0tHS8nX5imiEo7TvwJoKHjuDQZ3u9zchq9n2lsWHEOZEDOSG8glylwg0vSJb1CGvP9BhAxrARx99TMzblc-lbj3bSIzShWqPxfC5rVZwYyoEiwnCfkmvavj5SvruiCcYD9Vjc7ogzdkmI3ou7EaXVcTH9uCpkFmIELCnNwqoy2TpPaXAUNyIKMvVwaj9YBmQTTTsg4g7rsaAgWrBySU3FG-G1ETzcYBonAwib88uw2FItFKewc0bc=w1119-h839-no)
 
 <div style="text-align: center"> 골웨이 근처 Spiddal 에서 돌아다니다 들어간 Cafe에서 먹은 아침식사 </div>
-
 식사를 다 하고, 약 15분정도 다시 운전을 해서 공항으로 갔다.
 
 Aer Arann Connemara  공항은 내가 태어나서 본 공항 중 제일 작았다. 
