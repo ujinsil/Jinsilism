@@ -50,7 +50,6 @@ description: 아일랜드에 기네스 말고 뭐가 또 있을까? 골웨이 �
 <div style="text-align: center"> 출처 : 구글지도 </div>
 
 
-
 따라서, 골웨이 근처 선착장에서 배를 타고 당일치기 여행을 하는 사람들이 꽤나 있는데 일단 배로 이동하는 방법 부터 소개하고자 한다. 
 
 - **배 타고 이동하는 방법** 
@@ -73,7 +72,6 @@ description: 아일랜드에 기네스 말고 뭐가 또 있을까? 골웨이 �
 ![배 선착장](https://lh3.googleusercontent.com/xsxWds4CavMiUIvYdZwIBZHlpy-U15gKTcx8AsKb09zD-i6yQg-ATK13zEkfJumrgrJyRqWAoZu3fXpu3wuWEfqDqXUle_GErXUR0YxiSbWZrvaiQV_uHQ0x7Uq4z7gKvt36ZLebErSPJTMxrrdzcCEQ073OA4jclcWImV28QPoRx9VYSJZ4sZI7VnqcHxymKLk4N84a_9WcHbrTn0B7rRnAXV7xG_qfw6B5raJzEg5KA8SJyDBoNsUMuYaNhZmD_iRHibIUy3ar6ZTrwhxHsiGVg410LHqE3bKOV-7SfspdtZMbvhNknhMTEbS780euWM6x57tXNUrWEiDo_pOBjqtBfJwyKVsKXkVUpp3hj0MXRREucdY3RZa21CVWV2gebzSCachDesbCTo0oKVhZhk7VZe_B-cXQJ7RzHjlX17CF-hVOtZNw556T7-JhHirY5gn_rFevnBEd1mznN3aWgPdqOX4WSQSlPxew8ZphyWAmmMaWa_fwzAv3Lb_UVgcKOUnCxJLava0r06dBbFFh87H-kzCDxb2SWvDwgph0x8oWZoAMN9_isSrDyenwfO23BW295d8-oQlUDAu2KE_aT4snXhwQZe3q0OH7Eg7mSzWk1kfWcSjm_o-cLhcAn8T3x7dJ9jECeGsqWPiOVpJq9wauGAhFFhs=s839-no)
 
 <div style="text-align: center"> 이니시모어 배 선착장 </div>
-
 - **비행기로 이동하는 방법**
 
 보편적인 방법과는 조금 다르게 (?) 우리는 배 대신 비행기로 아란섬에 이동하기로 했다.
@@ -105,13 +103,11 @@ description: 아일랜드에 기네스 말고 뭐가 또 있을까? 골웨이 �
 <div style="text-align: center"> 아일랜드에서는 우리나라와 반대로  운전석이 오른쪽에, 자동차가 도로 왼쪽에 다닌다. </div>
 
 
-
 10시 쯤 근처에 Spiddal 이라는 마을에 도착해서 아침식사를 했다. 아일랜드 있는 내내 먹었던 아이리쉬 브렉퍼스트! 영국식 전통 아침식사와 다른 점은 화이트 푸딩이 있다는 점과 soda bread 가 있다는 점이다.
 
 ![아이리쉬 브렉퍼스트](https://lh3.googleusercontent.com/PveBqALhPh8s07tDTn9qQy05baUqQwyyXhULJwxt6KkqlBOpLcvferIpUjwU2KYNgP5OsEZ6EiARAW0w3mo_zSeQpamxyH22IyWB-qxqnjr3dmFUSe0_X8fQ9fFMC8zp265DfcWw-wNXh-wRNtsdrp7bPjJ3Fum0oXg22r0DTitRz3W-j2AI6AukX5F3UGxeEsVKjmHI6iIcQy_OIkAFJSiXMdcb6XIwZiQJLMCZc9xSpOi02aZgPwTIiy4YB_wac-Uf2aBvwsbqHv8MPMFGXuUY1NnUmPRrM5-RGR7KQQYGFPi0UVjt2se3bkpYprjJ-LCostLF24tiFWAqXTiUQPpQDGRWYbZZzlcWtf59-_WTdk_XMiu7q2ePZPD2dBxjmwx_5aEhcW9NROUFyMjESDTselN0PMNNTlbpWshckX0tHS8nX5imiEo7TvwJoKHjuDQZ3u9zchq9n2lsWHEOZEDOSG8glylwg0vSJb1CGvP9BhAxrARx99TMzblc-lbj3bSIzShWqPxfC5rVZwYyoEiwnCfkmvavj5SvruiCcYD9Vjc7ogzdkmI3ou7EaXVcTH9uCpkFmIELCnNwqoy2TpPaXAUNyIKMvVwaj9YBmQTTTsg4g7rsaAgWrBySU3FG-G1ETzcYBonAwib88uw2FItFKewc0bc=w1119-h839-no)
 
 <div style="text-align: center"> 골웨이 근처 Spiddal 에서 돌아다니다 들어간 Cafe에서 먹은 아침식사 </div>
-
 
 
 식사를 다 하고, 약 15분정도 다시 운전을 해서 공항으로 갔다.
@@ -121,7 +117,6 @@ Aer Arann Connemara  공항은 내가 태어나서 본 공항 중 제일 작았�
 ![connemara 공항](https://lh3.googleusercontent.com/ZQP1bKkgwLVm_xa5NxmGlmRhtdYo6d8bg3-M1DhgpV_2dEnTKvwUHJZqwHj1mmTz_Xhz93PGiBRuMjbufuUFLtn4LLGxouEQlESk_Nz0IiMUdN3D2SS0eOrXRCwFHdErv62fk2WC_OcyYsg1pdlMDzYX9TUPHhYgrap_ezssqv99f7GjZgBgTPrSYQ7kwVgZyOiNRLET27hJQDnO5u7jyGQNzhTa8QBc1Hwmu1wt6fqnF6bruqaFpy_xrXVKKayF-Kk4Lt_wpGRXT-AGUS4R_dGTkSUW68CPABNntsl8ZR2NHPtX3sh8YgMXE1sDHpMRV1CQv68LRgA81P3nDpGFApTw1ubjkoKi8MGtS4o_ri5fWDzvUEYXylrm08jUmYdSTLygthahnqv-BHxwWBlYR_MIeurecxPk9r7JMYulKl8SAy-osUU0RuYHblD_AQifOutuO1lBrCaOk03dEEmOy71lX5fYpeuYF-UqvNC8UmfLpcB_n6O0uKjywC8xWLOb9j9NB3Ui6FzjZU7Df8J6x9LWPYLHgF_qxG8DtJuInc_LCVy-TUxTngjxCITe2S-HBVLw-VFRcm6oDIzdlvEC4t6RUuFZuSlUflrdcM3VshXu-yxBkossddHd5uY17ECE6uAw_vZysT9gyVm_JKtbdfFhf4aowUo=w669-h378-no)
 
 <div style="text-align: center"> Aer Arann Connemara Airport </div>
-
 이 공항은 골웨이에서 서쪽으로 약 28km 정도 떨어진 곳에 위치하고 있는데, 주차 요금도 별도로 없고 공항 앞에는 많은 차들이 주차되어 있었다. 아란 섬 주민들이 아일랜드로 왔다갔다 하기 편리하도록 배려를 해주는 듯 해보였다. 
 항공권을 미리 예약을 하고 갔기 때문에 이메일을 보여준 후 수속 절차는 매우 간단했는데, 특이한 점은 전 탑승자의 무게 (들고 타는 가방 포함)를 잰다는 점이었다. 나중에 알고보니 워낙 작은 비행기여서 전반적 무게 균형을 맞추기 위함이었다. 
 

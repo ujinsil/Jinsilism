@@ -25,12 +25,6 @@ description: 골웨이 서쪽에 있는 이니시모어 (Inishmore) 여행 꿀�
 
 ---
 
-
-
-보통 ‘아일랜드' 라고 하면 수도인 더블린만을 떠올리기 쉽지만, 아일랜드에는 더블린 외에도 가볼만한 곳들이 정말 많다. 앞으로 여러 포스팅에 걸쳐 ‘아란제도'(이 후 아란섬이라고 칭하겠다)를 200% 즐기면서 여행하는 꿀팁을 공개하고자 한다.
-
-
-
 앞서 1편에서 골웨이에서 이니시모어로 이동하는 방법에 대해 자세히 소개했다.
 
 ![아란섬 가는길](https://lh3.googleusercontent.com/puc0JX9cPM7ydJGWSpkS3wTtZzi9xFMKQFzDc4oqTh6YL-VVXTi1cdPPuQlnj3OFfS7UXVMlxSotjEai_RjxtYzNV0E0KEeDiOvn8AJJH2b7KpKQzfJxdwylW2IQ-8m58vyuV7xTU2C873CuXs2PnGnK2D6prTmwi4VArk8ZmwihVH8GCG0fI6wcLgA1WzlzglaNpsoDcqLcXYhIGA_jvIxOneZQw_voJ0eu7fLJ9nJLr4fnXVHDrTgIdf_DmhUq17b2tDv8l-tA8vPeh6ruMprnhwsSPuD4eWk8aOuIgoSPSiak-a8ub370XyRxAi2gUz5gD3mNV2s0XTZNS2CjkkYbcVDqEZhASnQpEABPfcEf12WX-xLE4BQnK-w1ecDIPBMGk941Ynkyd7tV5b4qjCKxvYeNaI4KH1P_vqKcOmz3QGSPlkragFI_2iaXbk9NJihjmePaPwnjRARJrB1IFr8eFk0jGyasBulfsNAA3RNGIZZI3URE_x-01c4uScomS4IAQj4TEyFyXV_9me-MDhmvkDyrDYjnG0HX-CwpYuMLqLE2y-a12Eqt04jtXMFiU-HK2p9xsZwKMdB9KgiWmv_7EjozXlpVU_n3VTUtLxHLEMKhCSJeGHjf16NIeQAKSTtoqPPSS7w0sDK2pGz1wt15klauoRw=w1178-h883-no)
@@ -61,7 +55,6 @@ description: 골웨이 서쪽에 있는 이니시모어 (Inishmore) 여행 꿀�
 
 <div style="text-align: center"> 이시니모어에서 렌트했던 자전거 </div>
 
-
 2. **마차**
 
 자전거를 타고 다니다 보면 종종 마차를 타고 이동하는 사람들을 볼 수 있었다.
@@ -71,7 +64,6 @@ description: 골웨이 서쪽에 있는 이니시모어 (Inishmore) 여행 꿀�
  ![아란섬 마차](https://lh3.googleusercontent.com/xonoO_W_T2Sal_L27Y2hkxrukWHCdsVjn-8xVydJ417WfPJ8zAKl7O8YPSnu8PTB9b7THET152j9FXuk7yofOa-0EiPZwKsw5KNvcaCFQI3wpc8nel6VFyi59Qw9oJaz8pbIeNBVft1gK5KuXa3wNjaMJCIasjdjml9-3RbgqlC1iF8zQb0_KjR00qBTT7XpmebpH2ggI2DadhAzC5ebqf9ReKv6eMOrHKd4DzEE5Wf6GsJw0UNYkBrJbjgKsp-CnClV0EaCx0xIr3iHLiYla-nglwn5wK0PdzoyVD3EBQ7g8YIohFarE9MxHmWuOhtc8KKiPc6JCDOXEVGannIMcuevvoBszEvkxArrglOZ4XMfHpHBcEPABEk4rasOFHD2jZPq_BMd0US35VeQ-GG35SRHN4T2-r_cEySaq_eYdiJWnBnPn636zDDkPafMJwzUIHZbvWoOCG0HQo_jNy0A9Ys_bFIF8ri5yMeRJBuiOT6KGgpVdbEUsPawZ3OueCG1W2VgIZsXRcmAjvo93siSceaUH-sVOvG1wwXXaKKAdMziB8X4_M3MkibRwM2RDqCCmRreDRM9Mri1jCkWG9CZmt1Kq1MI00k8yyQzhuPa1D-MppRzbieymwAzUJR-k0QShPJZ9NWhFyxDKIHGpHTRV-L_zyRtBxo=w690-h383-no)
 
 <div style="text-align: center"> 마차를 타고 반대편에서 오는 사람들과 인사하는 중</div>
-
 
 3. **투어버스**
 
