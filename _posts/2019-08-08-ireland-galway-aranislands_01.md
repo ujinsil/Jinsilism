@@ -49,7 +49,6 @@ description: 아일랜드에 기네스 말고 뭐가 또 있을까? 골웨이 �
 
 <div style="text-align: center"> 출처 : 구글지도 </div>
 
-
 따라서, 골웨이 근처 선착장에서 배를 타고 당일치기 여행을 하는 사람들이 꽤나 있는데 일단 배로 이동하는 방법 부터 소개하고자 한다. 
 
 - **배 타고 이동하는 방법** 
@@ -102,13 +101,11 @@ description: 아일랜드에 기네스 말고 뭐가 또 있을까? 골웨이 �
 
 <div style="text-align: center"> 아일랜드에서는 우리나라와 반대로  운전석이 오른쪽에, 자동차가 도로 왼쪽에 다닌다. </div>
 
-
 10시 쯤 근처에 Spiddal 이라는 마을에 도착해서 아침식사를 했다. 아일랜드 있는 내내 먹었던 아이리쉬 브렉퍼스트! 영국식 전통 아침식사와 다른 점은 화이트 푸딩이 있다는 점과 soda bread 가 있다는 점이다.
 
 ![아이리쉬 브렉퍼스트](https://lh3.googleusercontent.com/PveBqALhPh8s07tDTn9qQy05baUqQwyyXhULJwxt6KkqlBOpLcvferIpUjwU2KYNgP5OsEZ6EiARAW0w3mo_zSeQpamxyH22IyWB-qxqnjr3dmFUSe0_X8fQ9fFMC8zp265DfcWw-wNXh-wRNtsdrp7bPjJ3Fum0oXg22r0DTitRz3W-j2AI6AukX5F3UGxeEsVKjmHI6iIcQy_OIkAFJSiXMdcb6XIwZiQJLMCZc9xSpOi02aZgPwTIiy4YB_wac-Uf2aBvwsbqHv8MPMFGXuUY1NnUmPRrM5-RGR7KQQYGFPi0UVjt2se3bkpYprjJ-LCostLF24tiFWAqXTiUQPpQDGRWYbZZzlcWtf59-_WTdk_XMiu7q2ePZPD2dBxjmwx_5aEhcW9NROUFyMjESDTselN0PMNNTlbpWshckX0tHS8nX5imiEo7TvwJoKHjuDQZ3u9zchq9n2lsWHEOZEDOSG8glylwg0vSJb1CGvP9BhAxrARx99TMzblc-lbj3bSIzShWqPxfC5rVZwYyoEiwnCfkmvavj5SvruiCcYD9Vjc7ogzdkmI3ou7EaXVcTH9uCpkFmIELCnNwqoy2TpPaXAUNyIKMvVwaj9YBmQTTTsg4g7rsaAgWrBySU3FG-G1ETzcYBonAwib88uw2FItFKewc0bc=w1119-h839-no)
 
 <div style="text-align: center"> 골웨이 근처 Spiddal 에서 돌아다니다 들어간 Cafe에서 먹은 아침식사 </div>
-
 
 식사를 다 하고, 약 15분정도 다시 운전을 해서 공항으로 갔다.
 
