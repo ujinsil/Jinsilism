@@ -1,6 +1,12 @@
 ---
 layout: default
 ---
+<script>
+  fbq('track', 'ViewContent',{
+      PostTitle: "{{  page.title  }}",
+   });
+</script>
+
 <article id="post-page">
 
 	{% if page.image.feature %}
