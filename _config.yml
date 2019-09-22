@@ -1,42 +1,37 @@
-# Site settings
 title: 진실리즘 (Jinsilism)
-tagline : 퇴사 후 세계여행을 꿈꾸는 진실의 여행기
-description: "The Adventure of Jinsil."
-url: "http://jinsilism.com"
-author:
-  name: "Jinsilism"
-  email: "jinsilism@gmail.com"
-  url: "http://jinsilism.com"
+tagline : Jinsil's Travel Blog퇴사 후 세계여행을 꿈꾸는 진실의 여행기
+description: > # this means to ignore newlines until "baseurl:"
+  Round The World trip with my husband Jim is awating!
+permalink: ':title/'
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://jinsilism.com" # the base hostname & protocol for your site, e.g. http://example.com
+site-twitter: #if your site has a twitter account, enter it here
 
-# Build settings
-baseurl: /
+# Author Settings
+author: Jinsil Yu # add your name
+author-img: jinsil-yu.jpg # add your photo
+about-author: I am a world traveller. # add description
+social-twitter: # add your Twitter handle
+social-facebook: shannonyu21 # add your Facebook handle
+social-github: # add your Github handle
+social-linkedin: jinsilyu # add your Linkedin handle
+social-email: jinsilism@gmail.com # add your Email address
+
+# Disqus
+discus-identifier: Jinsilism # add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Build Settings
 markdown: kramdown
-permalink: /:title
-paginate: 8
-
-# Default values
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-
-# Plugins
 plugins:
-  - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
   - jekyll-feed
 
-# Custom variables
-version: "1.1.0"
+paginate: 8
+paginate_path: "/page/:num"
 
-# Options
-custom_header: false
-custom_nav_footer: false
-reverse: false
-
-# 블로그 disqus shortname
-disqus:
-  shortname: Jinsilism
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
