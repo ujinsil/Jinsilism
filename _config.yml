@@ -25,8 +25,9 @@ defaults:
 
 # Plugins
 plugins:
-  - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
   - jekyll-feed
 
 # Custom variables
