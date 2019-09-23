@@ -3,7 +3,6 @@ layout: post
 title: "Welcome to Jinsilism!"
 date : 2019-09-23 18:00:00 +09:00
 author: "Jinsilism"
-permalink: /
 image: travelmap.jpg
 categories:
   -travel
@@ -27,4 +26,4 @@ My name is Jinsil Yu and I am preparing to travel around the world with my husba
 
 저희 여행에 대해 더 궁금하신 점이 있다면, 문의주세요!
 
-Feel free to check out <a href="https://jinsil.com" target="_blank">Jimsil Travel</a>, for English  version of our webdsite.
+Feel free to check out <a href="https://jimsil.com" target="_blank">Jimsil Travel</a>, for the English version of our website.
