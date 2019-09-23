@@ -1,10 +1,10 @@
 # Change 'comments' to true for Disqus comments
 disqus:
   comments: false
-  disqus_shortname: 'ujinsil'
+  disqus_shortname: 'millennial-3'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: 'UA-142534031-1'
+google-ID: 'UA-112060364-2'
 
 menu:
 - {name: 'Interesting Facts', folder: 'pages', file: 'facts.html'}
@@ -17,9 +17,9 @@ menu:
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'facebook', link: 'https://www.facebook.com/jinsilism'}
-- {icon: 'instagram', link: 'https://instagram.com/jimsil_travel'}
-- {icon: 'envelope', link: 'mailto:jinsilism@gmail.com'}
+- {icon: 'facebook', link: 'https://www.facebook.com/Le.Paul.94'}
+- {icon: 'instagram', link: 'https://instagram.com/paululele'}
+- {icon: 'envelope', link: 'mailto:l.nguyen.paul@gmail.com'}
 - {icon: 'rss-square', link: 'feed.xml'}
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
 
