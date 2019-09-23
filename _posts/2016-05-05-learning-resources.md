@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Learning Resources"
+date : 2019-09-23 18:00:00 +09:00
 author: "Paul Le"
 categories: facts
 tags: [documentation,sample]

@@ -1,14 +1,13 @@
 # Change 'comments' to true for Disqus comments
 disqus:
-  comments: false
+  comments: true
   disqus_shortname: 'ujinsil'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: 'UA-112060364-2'
+google-ID:
 
 menu:
-- {name: 'Interesting Facts', folder: 'pages', file: 'facts.html'}
-- {name: 'Learning Resources', folder: 'pages', file: 'resources.html'}
+- {name: '남미여행', folder: 'pages', file: 'south-america.html'}
 - {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}
 - {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
@@ -16,7 +15,6 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'twitter', link: 'https://twitter.com/'}
 - {icon: 'facebook', link: 'https://www.facebook.com/jinsilism'}
 - {icon: 'instagram', link: 'https://instagram.com/jimsil_travel'}
 - {icon: 'envelope', link: 'mailto:jinsilism@gmail.com'}

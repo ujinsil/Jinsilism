@@ -5,8 +5,8 @@ date : 2019-09-23 18:00:00 +09:00
 author: "Jinsilism"
 image: travelmap.jpg
 categories:
-  -travel
-  -documentation
+  - travel
+  - documentation
 tags: [travel,blog]
 
 ---
