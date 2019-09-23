@@ -6,7 +6,7 @@ paginate:            5
 # Build settings
 markdown:            kramdown
 highlighter:         rouge
-permalink:           none
+permalink:           /
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 sass:
@@ -14,9 +14,14 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Millennial"
-description:	       "a Jekyll theme for running a blog or publication"
-author:              "Paul Le"
+title:		           "Jinsilism"
+description:	       "Jinsil's Travel Blog"
+author:              "Jinsilism"
+
+# 블로그 disqus shortname
+disqus:
+  shortname: ujinsil
+
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
