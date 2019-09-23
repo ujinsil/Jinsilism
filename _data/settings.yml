@@ -15,6 +15,7 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
+- {icon: 'fa-youtube', link: 'https://www.youtube.com/channel/UCObsVlGykSzqmkRj_ufjSfw'}
 - {icon: 'facebook', link: 'https://www.facebook.com/jinsilism'}
 - {icon: 'instagram', link: 'https://instagram.com/jimsil_travel'}
 - {icon: 'envelope', link: 'mailto:jinsilism@gmail.com'}
