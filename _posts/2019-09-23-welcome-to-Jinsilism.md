@@ -4,6 +4,7 @@ title: "Welcome to Jinsilism!"
 date : 2019-09-23 18:00:00 +09:00
 author: "Jinsilism"
 image: travelmap.jpg
+permalink: /worldtrip/
 categories:
   - 세계여행
   - WorldTrip
