@@ -1,36 +1,105 @@
 <head>
 
-  <title>
-    {% if page.title == "Home" %}
-      {{ site.title }} | {{ site.description }}
-    {% else %}
-      {{ page.title }} | {{ site.title }}
-    {% endif %}
-  </title>
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-NZV8RQH');</script>
+	<!-- End Google Tag Manager -->
 
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta charset="utf-8">
+	<!-- Meta -->
+	<meta charset="UTF-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+	<meta name="generator" content="Jekyll">
 
-  <link rel="stylesheet" href="{{ site.github.url }}/assets/css/main.css">
-  <link rel="stylesheet" href="{{ site.github.url }}/assets/css/syntax.css">
-  <!-- Use Atom -->
-  {% feed_meta %}
-  <!-- RSS-v2.0
-  <link href="{{ site.github.url }}/rss-feed.xml" type="application/rss+xml" rel="alternate" title="{{ site.title }} | {{ site.description }}"/>
-  //-->
+	<!-- naver webmaster tool -->
+<meta name="naver-site-verification" content="3d833846c302eb4dbd9878d93d5e6588203b7b4e"/>
 
+	<title>
+		{%if page.title %}
+			{{ page.title }} | {{ site.title }}
+		{% else %}
+			{{ site.title }} | {{ site.tagline }}
+		{% endif %}
+	</title>
 
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto|Source+Code+Pro">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+	<!-- CSS & fonts -->
+	<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl | replace: '//', '/' }}">
+	<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,900,400italic%7CSignika:700,300,400,600' rel='stylesheet' type='text/css'>
 
-  <script type="text/javascript" async
-    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
-  </script>
+	<!-- RSS -->
+	<link href="/atom.xml" type="application/atom+xml" rel="alternate" title="ATOM Feed" />
 
-  <!-- Google Analytics -->
-  {% include google-analytics.html %}
+	<!-- SEO Tag -->
+	  <meta name="twitter:card" content="summary_large_image" />
+	  {% if page.title %}
+	    <meta property="og:title" content="{{ page.title }}" />
+	    <meta name="twitter:title" content="{{ page.title }}" />
+	  {% else %}
+	    <meta property="og:title" content="{{ site.title }} | {{ site.tagline }}" />
+	    <meta name="twitter:title" content="{{ site.title }} | {{ site.tagline }}" />
+	  {% endif %}
+	  {% if page.title %}
+	    <meta property="og:type" content="article" />
+	  {% else %}
+	    <meta property="og:type" content="website" />
+	  {% endif %}
+	  {% if page.description %}
+	    <meta name="description" content="{{ page.description }}" />
+	    <meta property="og:description" content="{{ page.description }}" />
+	    <meta name="twitter:description" content="{{ page.description }}" />
+	  {% else %}
+	    <meta name="description" content="{{ site.description }}" />
+	    <meta property="og:description" content="{{ site.description }}" />
+	    <meta name="twitter:description" content="{{ site.description }}" />
+	  {% endif %}
+	  {% if page.url %}
+	    <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+	    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+	  {% endif %}
+	  {% if page.date %}
+	    <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}" />
+	    <meta property="article:author" content="{{ page.author }}" />
+	  {% endif %}
+	  {% if page.image %}
+	    <meta property="og:image" content="{{ site.github.url }}/img/{{ page.image.feature }}" />
+	    <meta name="twitter:image:src" content="{{ site.github.url }}/img/{{ page.image.feature }}" />
+	  {% else %}
+	    <meta property="og:image" content="{{ site.github.url }}/img/jinsil.jpg" />
+	    <meta name="twitter:image:src" content="{{ site.github.url }}/img/jinsil.jpg" />
+	  {% endif %}
+	    <meta property="og:locale" content="ko_KR" />
+	    <meta property="og:site_name" content="{{ site.title }}" />
+	  {% if page.categories %}
+	    {% for category in page.categories limit:1 %}
+	    <meta property="article:section" content="{{ category }}" />
+	    {% endfor %}
+	  {% endif %}
+	  {% if page.tags %}
+	    {% for tag in page.tags %}
+	    <meta property="article:tag" content="{{ tag }}" />
+	    {% endfor %}
+	  {% endif %}
+	<!-- End SEO Tag -->
+<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/5fdf7dafebcdeea17f190ac3f/d685ccd1c24371fa80a40b4ae.js");</script>
 
-  <!-- Use Jekyll SEO plugin -->
-  {% seo %}
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '3004144759602544');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=3004144759602544&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
 
 </head>
