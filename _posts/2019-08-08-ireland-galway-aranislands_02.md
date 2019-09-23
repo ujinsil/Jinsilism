@@ -1,24 +1,25 @@
 ---
 layout: post
 title: 아일랜드 여행 - 아란섬 이니시모어 (Inishmore) 2편
-date: 2019-08-08 18:00:00 +09:00
+date: 2019-08-08 20:00:00 +09:00
 author: Jinsilism
 permalink: /Ireland-AranIslands2/
 image: inishmore2_thumbnail.jpg
 categories:
-  -유럽여행
-  -아일랜드
-  -골웨이
-  -아란섬
-  -여행
+  - 유럽여행
+  - 아일랜드
+  - 골웨이
+  - 아란섬
+  - 여행
+  - europe
 
 tags:
-  -아란섬
-  -이니시모어
-  -골웨이
-  -아일랜드
-  -아일랜드여행
-  -유럽여행
+  - 아란섬
+  - 이니시모어
+  - 골웨이
+  - 아일랜드
+  - 아일랜드여행
+  - 유럽여행
 
 description: 골웨이 서쪽에 있는 이니시모어 (Inishmore) 여행 꿀팁 2편!
 

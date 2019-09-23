@@ -6,19 +6,21 @@ author: Jinsilism
 permalink: /Ireland-AranIslands1/
 image: inishmore1_thumbnail.jpg
 categories:
-  -유럽여행
-  -아일랜드
-  -골웨이
-  -아란섬
-  -여행
+  - 유럽여행
+  - 아일랜드
+  - 골웨이
+  - 아란섬
+  - 여행
+  - europe
+
 
 tags:
-  -아란섬
-  -이니시모어
-  -골웨이
-  -아일랜드
-  -아일랜드여행
-  -유럽여행
+  - 아란섬
+  - 이니시모어
+  - 골웨이
+  - 아일랜드
+  - 아일랜드여행
+  - 유럽여행
 
 description: 아일랜드에 기네스 말고 뭐가 또 있을까? 골웨이 서쪽에 있는 아란제도에서 가장 큰 섬인 이니시모어 (Inishmore) 여행 꿀팁 1편!
 

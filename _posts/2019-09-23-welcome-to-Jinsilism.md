@@ -5,9 +5,16 @@ date : 2019-09-23 18:00:00 +09:00
 author: "Jinsilism"
 image: travelmap.jpg
 categories:
-  - travel
-  - documentation
-tags: [travel,blog]
+  - 세계여행
+  - WorldTrip
+
+tags:
+  - 아란섬
+  - 이니시모어
+  - 골웨이
+  - 아일랜드
+  - 아일랜드여행
+  - 유럽여행
 
 ---
 

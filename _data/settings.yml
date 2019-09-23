@@ -7,10 +7,10 @@ disqus:
 google-ID:
 
 menu:
-- {name: '남미여행', folder: 'pages', file: 'south-america.html'}
-- {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}
-- {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
+- {name: '세계여행', folder: 'pages', file: 'worldtrip.html'}
+- {name: '유럽여행', folder: 'pages', file: 'europe.html'}
+- {name: '남미여행', folder: 'pages', file: 'south-america.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
