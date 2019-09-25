@@ -5,6 +5,7 @@ date: 2019-08-08 18:00:00 +09:00
 author: Jinsilism
 permalink: /Ireland-AranIslands1/
 image: inishmore1_thumbnail.jpg
+content_id: 4
 categories:
   - 유럽여행
   - 아일랜드

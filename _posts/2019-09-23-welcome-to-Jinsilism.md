@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Welcome to Jinsilism!"
+title: 세계여행 계획 간단 소개 :)
 date : 2019-09-23 18:00:00 +09:00
-author: "Jinsilism"
-image: travelmap.jpg
+author: Jinsilism
 permalink: /worldtrip/
+image: travelmap.jpg
+content_id: 6
 categories:
   - 세계여행
   - WorldTrip

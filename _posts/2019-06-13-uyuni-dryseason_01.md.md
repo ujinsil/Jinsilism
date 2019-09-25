@@ -5,6 +5,7 @@ date: 2019-06-13 19:00:00 +09:00
 author: Jinsilism
 permalink: /uyuni-during-dry-season/
 image: uyuni_thumnail.jpg
+content_id: 2
 categories:
   - 남미여행
   - 우유사막
