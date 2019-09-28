@@ -1,0 +1,28 @@
+---
+layout: page
+title: 술사파리
+---
+
+Sool-Safari란?
+<br><br><br>
+나는 술을 정말 즐기고 좋아한다.
+<br>
+그래서 여행할 때마다 각 지역의 술 양주장에 꼭 방문하는데, 이번 세계여행에서도 여행하는 각 지역의 양조장에 방문할 예정이다.
+<br><br>
+먼저 '사파리'의 사전적 정의에 대해 알아보자.
+<br>
+'사파리'의 사전적 의미 : noun 야생 동물을 놓아기르는 자연공원에 자동차를 타고 다니며 차 안에서 구경하는 일.<br>
+원래는 스와힐리어의 ‘여행’이라는 뜻으로, 사냥을 하기 위하여 사냥감을 찾아 원정하는 일을 이르던 말이다.
+<br>
+즉, 야생 동물이 살고 있는 영역에 들어가서 그들의 삶을 직접 보고 경험하는 일이다.
+<br><br><br>
+이처럼 여행을 하며 각 나라와 지역의 문화와 역사가 담긴 각 지역의 술 이야기를 보고, 듣고, 경험하고 그걸 이 페이지에 기록해보려 한다.
+<br>
+
+{% for post in site.categories.sool-safari %}
+  <a href="{{ site.github.url }}{{ post.url }}">
+    <div class="featured-posts" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
+      <h2><span>{{ post.title }}</span></h2>
+    </div>
+  </a>
+{% endfor %}
