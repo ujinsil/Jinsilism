@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is '술 사파리'?
-date : 2019-10-05 06:00:00 +09:00
+date : 2019-10-05 06:00:00 +08:00
 author: Jinsilism
 permalink: /sool-safari-intro/
 image: soolsafari_intro.jpg
