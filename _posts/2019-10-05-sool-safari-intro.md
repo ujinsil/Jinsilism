@@ -9,7 +9,6 @@ content_id: 7
 categories:
   - Sool-safari
   - 술 사파리
-  - WorldTrip
 
 tags:
   - 술사파리
