@@ -9,7 +9,7 @@ google-ID:
 menu:
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'World Trip', folder: 'pages', file: 'worldtrip.html'}
-- {name: 'Sool-Safari', folder: 'pages', file: 'sool-safari.html'}
+- {name: 'Sool-Safari', folder: 'pages', file: 'Sool-safari.html'}
 - {name: 'Europe', folder: 'pages', file: 'europe.html'}
 - {name: 'South America', folder: 'pages', file: 'south-america.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
