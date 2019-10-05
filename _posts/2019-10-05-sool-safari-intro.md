@@ -7,7 +7,7 @@ permalink: /sool-safari-intro/
 image: soolsafari_intro.jpg
 content_id: 7
 categories:
-  - Sool-safari
+  - sool-safari
   - 술 사파리
 
 tags:
