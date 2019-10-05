@@ -3,6 +3,8 @@
 # jekyll-paginate configuration
 paginate:            5
 
+url: "https://jinsilism.com"
+
 # Build settings
 markdown:            kramdown
 highlighter:         rouge
