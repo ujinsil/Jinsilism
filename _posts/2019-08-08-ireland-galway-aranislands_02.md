@@ -77,7 +77,13 @@ description: 골웨이 서쪽에 있는 이니시모어 (Inishmore) 여행 꿀�
 <http://www.inismortours.com/>
 
 
-
 아직은 한국인들에게 많이 알려지지 않았지만, 아일랜드 여행에서 더블린 외 시간이 조금 더 있다면 골웨이에 들려 기네스 한잔 하고 이니시모어에 꼭 들리는 것을 추천한다.
 
-#### -마시고, 여행하고, 진실하라. Jimsilism-
+<hr>
+<div style="text-align: center">
+마시고, 여행하고, 진실하라.
+- Jinsilism -
+</div>
+
+Please feel free to check out <a href="https://jimsil.com" target="_blank"> Jimsil Travel </a>, for the English version of our website.
+<hr>

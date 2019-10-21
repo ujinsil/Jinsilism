@@ -32,4 +32,11 @@ tags:
 ## QUESTIONS?
 저희 여행에 대해 더 궁금하신 점이 있다면, 아래 댓글이나 이메일, 그리고 우측 상단에 아이콘을 통해 편하신 채널로 문의주세요!
 
-Feel free to check out <a href="https://jimsil.com" target="_blank">Jimsil Travel</a>, for the English version of our website.
+<hr>
+<div style="text-align: center">
+마시고, 여행하고, 진실하라.
+- Jinsilism -
+</div>
+
+Please feel free to check out <a href="https://jimsil.com" target="_blank"> Jimsil Travel </a>, for the English version of our website.
+<hr>

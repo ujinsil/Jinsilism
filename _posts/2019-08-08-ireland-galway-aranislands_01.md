@@ -153,5 +153,11 @@ Aer Arann Connemara  공항은 내가 태어나서 본 공항 중 제일 작았�
 이니시모어에 도착 후 1박 2일 동안 우리가 어떻게 어떤 관광 명소를 여행했는지는 다음 편에서 다루어보겠다.
 
 
+<hr>
+<div style="text-align: center">
+마시고, 여행하고, 진실하라.
+- Jinsilism -
+</div>
 
-####  -마시고, 여행하고, 진실하라. Jimsilism-
+Please feel free to check out <a href="https://jimsil.com" target="_blank"> Jimsil Travel </a>, for the English version of our website.
+<hr>

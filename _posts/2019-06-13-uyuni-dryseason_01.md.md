@@ -133,4 +133,11 @@ description: 지구 최대의 거울, 우유니사막. 하지만 아무것도 �
 
 ![우유니 사막](https://lh3.googleusercontent.com/Psu2c8fp6EHvPwBMFwRhgyS1io5DSUgwzrvf76HQYBsFmFXWQrzcWCR5MK7p3fuz1d6FMEkwtkoptIf-3dLtfTeYFPoME1rmjqX4KaxniIoNMLuHbDqh4uudGndQ12VWsXXvYhC0tUtxdleb44KqUFWjn8IHbN5f7KdMQ77IWBkg7ic9oGmcqftT3mPBwif8ObdIpwzosmUmCd7WSJyp4XzgNPr7-xggXnmd1nRFdsR9zcqNCMyvvMBBx3_FkU5MbdO77GB7au91SJAjCl6Kph7_NpvJqWYBspm0n63gZMICmlWCtP4SU2iglU5SYaukIJB3vvr582hAkD0dZF6Zgp2TgK0t--kvH_zvdRJ_vjgpet16rQJDSExyClaCyPjgRJz9mKXpusf6JI8UuT_FvEhaiMZhiWYb7F4Z7hK-F4O047eAH-G_LBrcWkqaWyMJrXWcy23obmUA2-ZjlSCQJPLrvuMAGsDbzVsycK9e8hOUV4KHqwQbrmdj2rDY9UuKvxG6fVMqNwbOnEBgqFiH39WWK5X0kzufmS4h0KpdYUkfQ5uOb28ZWn_o1U4SOnBJgTEzl9mY9NkFDYYvy_BE-44Woh3fEDq-YZSlWAVMQjDJG4ffPlIZBV6LygHr_f4ZmZpaKf12TkBtcfLmr0ausHpkZPHNoQ=w1119-h783-no)
 
-####  -Jimsilism-
+<hr>
+<div style="text-align: center">
+마시고, 여행하고, 진실하라.
+- Jinsilism -
+</div>
+
+Please feel free to check out <a href="https://jimsil.com" target="_blank"> Jimsil Travel </a>, for the English version of our website.
+<hr>

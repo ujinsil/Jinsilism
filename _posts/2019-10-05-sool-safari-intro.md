@@ -55,5 +55,11 @@ tags:
 
 음식을 먹든, 술을 마시든, 사람을 만나든 새로운 도전을 좋아하는 호기심 많은 모험가적 기질을 통해 이번 여행에서도 내가 여태까지 경험해보지 못했던 술들을 접하고 또 그걸 이 블로그를 통해 많은 사람들과 공유하고 싶다.
 
+<hr>
+<div style="text-align: center">
+마시고, 여행하고, 진실하라.
+- Jinsilism -
+</div>
 
-#### -Jimsilism-
+Please feel free to check out <a href="https://jimsil.com" target="_blank"> Jimsil Travel </a>, for the English version of our website.
+<hr>
