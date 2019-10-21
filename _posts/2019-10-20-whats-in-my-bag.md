@@ -3,7 +3,7 @@ layout: post
 title: What's in my bag?
 date : 2019-10-20 22:00:00 +09:00
 author: Jinsilism
-permalink: /worldtrip/
+permalink: /whatsinmybag/
 image: whatsinmybag.jpg
 content_id: 7
 categories:
