@@ -34,7 +34,7 @@ tags:
 주말에 남편 저는 이번 세계여행 짐싸기 리허설을 해봤다. 두달 후 실제 상황처럼 여행에 가져갈 물건들을 가방에 넣고 무게까지 재봤는데, 옷의 경우 평소에 원피스를 좋아하는 나답지 않게 바지,반바지,티셔츠 등 여러 조합으로 교차해서 맞춰 입을 수 있는 옷들로 챙겨봤다.
 
 챙긴 옷은 아래와 같다.
-* 1속옷 x 5 벌 (팬티 x 5, 일반 브라 x 3, 스포츠 브라 x 2 )
+* 속옷 x 5 벌 (팬티 x 5, 일반 브라 x 3, 스포츠 브라 x 2 )
 * 레깅스 x 2
 * 반바지 x 2
 * 양말 x 2
@@ -56,6 +56,7 @@ tags:
 
 40리터 백팩에 짐을 챙기려면, 그 안 정리를 돕는 여행 보조 가방은 필수다. 내가 사용할 보조 가방 (uncompressed packing cube)은 낙하산 재질로 만들어서 찢어질 위험이 매우 낮고 탄탄한 장점이 있다. 지퍼도 이중으로 되어있어, 크기 조절도 가능해서 여행 내내 끄떡없이 사용할 수 있을 것 같다 :)  
 2개의 보조가방에 옷을 넣고, 나머지 공간에는 신발과 공동 물건을 넣을 계획인데, 특히 세면도구 및 액체류 대부분을 제 가방에 넣을 계획이다. 캐리온 백팩을 이용하면 불편한 점 중 하나가 액체류는 100ml 이하 크기만 가지고 다닐 수 있다는 점이다. 거의 화장품 샘플이나 여행용으로 작게 포장된 것들을 가지고 다녀야 하는데, 이것 또한 투명한 플라스틱 지퍼팩에 넣어서 다니고 공항에서 보안검색을 지날 때마다 가방 밖으로 꺼내야하는 불편함이 있다. (특히 유럽 국가는 무조건 꺼내야함) 이러한 불편함과 무게 때문에 액체류는 최소한으로 가지고 다니고, 샴푸와 향수 등은 러쉬에서 판매하는 고체형태로 가지고 다닐 예정이다. 러쉬 고체 샴푸 및 비누는 작년 남미 여행에서 아주 유용하게 사용했는데, 이번 여행에서도 꽤나 유용하게 쓰지 않을까 싶다!
+
 ![고체 및 소량 액체류](https://lh3.googleusercontent.com/-qXpBBsgBS3DrerdXTmbCpbB1ET7Hf_4Wq7-zKd9DLrHov-CMwTmsAFzK2FBpCBTKuY7LqpEFAVlKpvlZoS3dHNX2RG4FR1fTT8fG45u79nLtHrWxve3XUZ7VBWEYfDB6b8Uc8EjRDZyE4_qLCz6yQiYioJCBNfmB2Z5m4gwocm3ei_jlcs1vh1pmxo21-rrzIThB3NcBEYlNLBQ-12InuwG2bmdUZMwA5F7NSAWF0m-LIozKKzYOoRtOqyvEeGghM3R7DzFfMqCfmbXiQVi4FHlkEcWx5nFtNDtAyrft1T9DmqJYcZZhgxIAhEZ-JdHVRWPTTf9-oceKSjVO-ZcJHFthvxQQyJKH1v44wvcXGVME3y12n8rZwiJ29CGRBrtKtR4NOjCQGo71iqN6890uJ4sDCVn0bjA-ddC7FtZXV8kycr3QwoISIvrgvwHUD-8l5iD-ZB08-rMZvkH0GnFIKcN7a4AW81DodjqqQWwxum27Fhg3jZukcWpPK2giYUZm-eQ7VHzs_CdDKW3AQae0XpUNPi4fEatniF2DYM7VVzRidsKt3pxmBqhBlFAZvxHtg37zLYd9qOZpJpoHTeC98NM5ouL196G3v_sKGoKSXrGn7QtIXF5akl96MB55EmUlVQrz0XObnRLlNA0dHEb2x0sBGKZFnqNxRt4eax6pUvS3c_D4Nl1_g=w269-h202-no)
 
 또한, 내 가방에 진통제, 소화제, 종합 감기약 등  비상약품을 가지고 다닐 예정이며, 그 외에도 노트북, 충전기, 고프로 액세서리와 스포츠용 수건, 고넥스 데이백, 손톱깎이, 접이식 물병, 1TB 외장하드 등을 넣어 다닐 예정이다. (옷을 포기해야하는 이유가 여기에 ㅠㅠ)
